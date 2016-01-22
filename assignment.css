@@ -2,3 +2,7 @@
 body{
 	padding:50px 0px 0px 0px;
 }
+.crop-img{
+  max-height:150px;
+  max-width:100%;
+}
